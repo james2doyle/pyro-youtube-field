@@ -35,7 +35,7 @@ This field will take in the URL for a Youtube video and resolve the Title and th
 ### In the layout
 
 This field returns an array for the link that you entered. Here is the basic usage.
-
+s
 ```html
 <!-- make sure the ID was resolved -->
 {{ if page:video_field_slug:id }}
